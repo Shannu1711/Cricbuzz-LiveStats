@@ -32,7 +32,7 @@ py -3.11 -m venv .venv
 If the virtual environment already exists, reuse it. Create a file named `.env` in the project root, beside `app.py`:
 
 ```dotenv
-RAPIDAPI_KEY=your_rapidapi_key_here
+RAPIDAPI_KEY="5616ffb146mshbb5f1f634d84875p14b01cjsn0320a78424b3"
 ```
 
 Use your own key. Keep `.env` private. The application uses this API host:
